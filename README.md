@@ -52,4 +52,4 @@ gpg user-at-leipzigesports-dot-de.tar.gz.gpg
 
 # License
 
-MIT.s
+MIT.
